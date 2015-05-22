@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="MyAccountProfileTestSuite" verbose="5" parallel="false" thread-count="6">
-    <test name="NetworkGroupsFireFox" preserve-order="false">
-        <classes preserve-order="true">
-            <class name="com.itson.myaccount.MyAccountProfileTestSuite"/>
-        </classes>
-    </test> <!-- Test -->
-</suite> <!-- Suite -->

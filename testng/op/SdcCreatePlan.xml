@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="OpGiftCardTestSuite" verbose="5" parallel="false" thread-count="5"> 
-    <test name="OpGiftCardTestSuite" preserve-order="true">
-        <classes preserve-order="true">
-            <class name="com.itson.operatorplatform.SdcCreatePlanTestSuite"/>
-        </classes>
-    </test> <!-- Test -->  
-</suite> <!-- Suite -->
