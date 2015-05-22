@@ -1,0 +1,23 @@
+{
+    "setup": "ANY",
+    "testMDN": "2142632285",
+    "hostUrlSdc": "https://sprint-portal-di01.it.itsonsaas.net/",
+    "tenantID": "sprint",
+    "parnterID": "deb4e94b-1a9f-421d-82c1-549fe3d22269",
+    "partnerName": "NA",
+    "grant_type": "password",
+    "username": "qeadmin@itsoninc.com",
+    "password": "only4Jenkins",
+    "adminuser": "saasadmin@itsoninc.com",
+    "adminpassword": "password",
+    "client_id": "0453ce83a3aae9a8ac4e550aaeb5d251",
+    "client_secret": "https://saas-portal.it.itsonsaas.net",
+    "oAuthUrl": "http://subscriber-di01-service.it.itsonsaas.net:8280/saas/services/1.0/partner/deb4e94b-1a9f-421d-82c1-549fe3d22269/oauth/login?grant_type=password&username=saasadmin@itsoninc.com&password=password&client_secret=IXiBnZlsWgtinvlR702GGn4D4gZmaEPbzzbozJOy5Jc&client_id=0453ce83a3aae9a8ac4e550aaeb5d251",
+    "adminUrl": "http://subscriber-di01-service.it.itsonsaas.net:8280/saas/services/1.0/partner/deb4e94b-1a9f-421d-82c1-549fe3d22269/",
+    "adapterUrl": "http://sprint-adapter-di01-service.it.itsonsaas.net:8180/sprint-adapter/services/1.0/provision",
+    "hostUrlBl": "NA",
+    "hostUrlMyAccount": "none",
+    "blUsername": "NA",
+    "blPassword": "NA",
+    "sandbox": "NA"
+}

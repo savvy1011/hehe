@@ -1,0 +1,23 @@
+{
+    "setup": "ANY",
+    "testMDN": "5049058478",
+    "hostUrlSdc": "https://zact-portal-di01.qa.itsonsaas.net/",
+    "tenantID": "zact",
+    "parnterID": "16633afa-c1bf-4638-9dfe-4716646c06de",
+    "partnerName": "zact-webautomation",
+    "grant_type": "password",
+    "username": "qeadmin@itsoninc.com",
+    "password": "only4Jenkins",
+    "adminuser": "saasadmin@itsoninc.com",
+    "adminpassword": "forzaQAZact1",
+    "client_id": "5f31e75c998b7006a6612e39bdc1e92c",
+    "client_secret": "IXiBnZlsWgtinvlR702GGn4D4gZmaEPbzzbozJOy5Jc",
+    "oAuthUrl": "http://subscriber-di01-service.qa.itsonsaas.net:8280/saas/services/1.0/partner/d878bc1e-9bb8-4a0e-b224-a4ba0d7dfcec/oauth/login?grant_type=password&username=qeadmin@itsoninc.com&password=only4Jenkins&client_secret=gVObuEIr7vZgWZq65WHvffAfI8pG51moPw25rdESKNQ&client_id=5f31e75c998b7006a6612e39bdc1e92c",
+    "adminUrl": "http://subscriber-di01-service.qa.itsonsaas.net:8280/saas/services/1.0/partner/d878bc1e-9bb8-4a0e-b224-a4ba0d7dfcec/",
+    "adapterUrl": "http://subscriber-di01-service.qa.itsonsaas.net:8280/saas/services/1.0/partner/4113b74d-cfbe-4c51-9a09-c0012ecfa44f/subscriber/provision",
+    "hostUrlBl": "https://zact-operator-di01-service.qa.itsonsaas.net:6443/op-admin/?siteId=16633afa-c1bf-4638-9dfe-4716646c06de",
+    "hostUrlMyAccount": "https://zact-myaccount-di01.qa.itsonsaas.net/",
+    "blUsername": "automation",
+    "blPassword": "SOASTA650",
+    "sandbox": "Automation"
+}

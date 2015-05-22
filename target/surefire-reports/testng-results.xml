@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Created random name :autogutob104734]]>
+    </line>
+  </reporter-output>
+  <suite name="MyAccountProfileTestSuite" duration-ms="326471" started-at="2015-05-22T03:47:34Z" finished-at="2015-05-22T03:53:00Z">
+    <groups>
+      <group name="SDC">
+        <method signature="MyAccountProfileTestSuite.changePasswordCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePasswordCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformationCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformationCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+      </group> <!-- SDC -->
+      <group name="CustomerSupport">
+        <method signature="MyAccountProfileTestSuite.changePassword()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePassword" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.changePasswordCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePasswordCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformationInEdit()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformationInEdit" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformationCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformationCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+      </group> <!-- CustomerSupport -->
+      <group name="MyAccount">
+        <method signature="MyAccountProfileTestSuite.changePassword()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePassword" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformationInEdit()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformationInEdit" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+      </group> <!-- MyAccount -->
+      <group name="Sprint">
+        <method signature="MyAccountProfileTestSuite.changePasswordCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePasswordCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformationCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformationCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+      </group> <!-- Sprint -->
+      <group name="Zact">
+        <method signature="MyAccountProfileTestSuite.changePassword()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePassword" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.changePasswordCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePasswordCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.checkAccountHolderInformationInEdit()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformationInEdit" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformation" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+        <method signature="MyAccountProfileTestSuite.editAccountHolderInformationCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformationCancel" class="com.itson.myaccount.MyAccountProfileTestSuite"/>
+      </group> <!-- Zact -->
+    </groups>
+    <test name="NetworkGroupsFireFox" duration-ms="326471" started-at="2015-05-22T03:47:34Z" finished-at="2015-05-22T03:53:00Z">
+      <class name="com.itson.myaccount.MyAccountProfileTestSuite">
+        <test-method status="PASS" signature="classSetUp()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="classSetUp" is-config="true" duration-ms="40879" started-at="2015-05-22T10:47:34Z" finished-at="2015-05-22T10:48:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Created random name :autogutob104734]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:48:15Z" finished-at="2015-05-22T10:48:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.checkAccountHolderInformation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="checkAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformation" duration-ms="4648" started-at="2015-05-22T10:48:15Z" finished-at="2015-05-22T10:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccountHolderInformation -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:48:19Z" finished-at="2015-05-22T10:48:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.checkAccountHolderInformation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="checkAccountHolderInformationInEdit()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="checkAccountHolderInformationInEdit" duration-ms="6756" started-at="2015-05-22T10:48:19Z" finished-at="2015-05-22T10:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAccountHolderInformationInEdit -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:48:19Z" finished-at="2015-05-22T10:48:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.checkAccountHolderInformationInEdit()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:48:26Z" finished-at="2015-05-22T10:48:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.checkAccountHolderInformationInEdit()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:48:26Z" finished-at="2015-05-22T10:48:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.changePassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="changePassword()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePassword" duration-ms="113402" started-at="2015-05-22T10:48:26Z" finished-at="2015-05-22T10:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:50:20Z" finished-at="2015-05-22T10:50:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.changePassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:50:20Z" finished-at="2015-05-22T10:50:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.editAccountHolderInformationCancel()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="editAccountHolderInformationCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformationCancel" duration-ms="28794" started-at="2015-05-22T10:50:20Z" finished-at="2015-05-22T10:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountHolderInformationCancel -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:50:48Z" finished-at="2015-05-22T10:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.editAccountHolderInformationCancel()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:50:48Z" finished-at="2015-05-22T10:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.changePasswordCancel()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="changePasswordCancel()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="changePasswordCancel" duration-ms="33730" started-at="2015-05-22T10:50:48Z" finished-at="2015-05-22T10:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePasswordCancel -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:51:22Z" finished-at="2015-05-22T10:51:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.changePasswordCancel()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="methodSetUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodSetUp" is-config="true" duration-ms="1" started-at="2015-05-22T10:51:22Z" finished-at="2015-05-22T10:51:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.editAccountHolderInformation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="editAccountHolderInformation()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="editAccountHolderInformation" duration-ms="97489" started-at="2015-05-22T10:51:22Z" finished-at="2015-05-22T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountHolderInformation -->
+        <test-method status="PASS" signature="methodCleanUp(java.lang.reflect.Method)[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="methodCleanUp" is-config="true" duration-ms="0" started-at="2015-05-22T10:53:00Z" finished-at="2015-05-22T10:53:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.itson.myaccount.MyAccountProfileTestSuite.editAccountHolderInformation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodCleanUp -->
+        <test-method status="PASS" signature="classCleanUp()[pri:0, instance:com.itson.myaccount.MyAccountProfileTestSuite@57e75713]" name="classCleanUp" is-config="true" duration-ms="745" started-at="2015-05-22T10:53:00Z" finished-at="2015-05-22T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classCleanUp -->
+      </class> <!-- com.itson.myaccount.MyAccountProfileTestSuite -->
+    </test> <!-- NetworkGroupsFireFox -->
+  </suite> <!-- MyAccountProfileTestSuite -->
+</testng-results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NetworkGroupsFireFox"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="284.819">
+  <properties />
+  
+  
+            <testcase name="changePassword" time="113.402" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+                <testcase name="checkAccountHolderInformation" time="4.648" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+                <testcase name="changePasswordCancel" time="33.730" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+                <testcase name="editAccountHolderInformation" time="97.489" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+                <testcase name="editAccountHolderInformationCancel" time="28.794" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+                <testcase name="checkAccountHolderInformationInEdit" time="6.756" classname="com.itson.myaccount.MyAccountProfileTestSuite" />
+      
+</testsuite>
