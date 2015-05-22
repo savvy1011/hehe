@@ -1,0 +1,4 @@
+NameVoiceVoice1,Description-J_V-ASSIGN_ONCE-7259,Open VOICE Policy - Home (VOICE),2,Customer Payment,Assignable once,3,No,2,Minute(s),Yes,Custom,Display Both Unit and Cycle Data,Yes,2.25,1,Line Based Fees
+NameVoiceVoice2,Description-J_V-SHARE_AUTO-R-3887,Open VOICE Policy - Home (VOICE),2,Customer Payment,Share automatically,Renews Indefinitely,No,4,Minute(s),Yes,Custom,Display Both Unit and Cycle Data,Yes,2.33,1,Equipment
+NameVoiceVoice3,Description-J_V-SHARE_AUTO-R-3887,Open VOICE Policy - Home (VOICE),2,Customer Payment,Reassignable indefinitely,Does Not Renew,No,2,Day(s),Yes,Custom,Display Both Unit and Cycle Data,Yes,8.88,7,Voice Plan
+NameVoiceVoice4,Description-J_V-SHARE_AUTO-R-3887,Open VOICE Policy - Home (VOICE),2,Customer Payment,Share on request,Renews Indefinitely,No,2,Hour(s),Yes,Custom,Display Both Unit and Cycle Data,Yes,8.88,7,Not Applicable

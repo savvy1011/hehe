@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegressionZactTestSuite" verbose="7" parallel="false"> 
+    <listeners>
+        <listener class-name="com.itson.servicedesigncenter.IOTestListenerAdapter" />
+    </listeners>
+    <groups>
+        <run>
+            <exclude name="noZact" />
+            <exclude name="SprintOnly" />
+            <exclude name="unstable" />
+            <exclude name="Jira" />
+        </run>
+    </groups>
+      <test name="NotificationTestSuite" preserve-order="true" group-by-instances="true">
+        <classes preserve-order="true" group-by-instances="true">
+            <class name="com.itson.servicedesigncenter.notification.TestFactory" />
+        </classes>
+    </test>
+</suite>
