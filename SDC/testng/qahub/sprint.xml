@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegressionSprintTestSuite" verbose="7" parallel="tests" thread-count="5"> 
+    thread-count="5" configfailurepolicy="skip">
+    <listeners>
+        <listener class-name="com.itson.servicedesigncenter.IOTestListenerAdapter" />
+    </listeners>
+    <groups>
+        <run>
+            <exclude name="unstable" />
+            <exclude name="Jira" />
+            <exclude name="zactOnly" />
+        </run>
+    </groups>
+    <test name="PortalLoginEulaTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.PortalLoginEulaTestSuite" />
+        </classes>
+    </test>
+    <test name="CustomerSupportTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.CustomerSupportSprintTestSuite" />
+        </classes>
+    </test>
+    <test name="NetworkGroupsTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.NetworkGroupsTestSuite" />
+        </classes>
+    </test>
+
+    <test name="FeatureTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.FeatureTestSuite" />
+        </classes>
+    </test>
+    <test name="FeatureWifiTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.FeatureWifiTestSuite" />
+            <methods>
+            </methods>
+        </classes>
+    </test>
+    <test name="FeaturesDataSessionMIPTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class
+                name="com.itson.servicedesigncenter.FeaturesDataSessionMIPTestSuite" />
+            <methods>
+            </methods>
+        </classes>
+    </test>
+    <test name="FeaturesDataPolicyTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.FeaturesDataPolicyTestSuite" />
+            <methods>
+            </methods>
+        </classes>
+    </test>
+    <test name="FeaturesVoicePolicyTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.FeaturesVoicePolicyTestSuite" />
+            <methods>
+            </methods>
+        </classes>
+    </test>
+    <test name="FeaturesTextPolicyTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.FeaturesTextPolicyTestSuite" />
+            <methods>
+            </methods>
+        </classes>
+    </test>
+    <test name="ProfileTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.ProfileTestSuite" />
+        </classes>
+    </test>
+    <test name="SecurityTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.SecurityTestSuite" />
+        </classes>
+    </test>
+    <test name="SubscriberGroupsTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.SubscriberGroupsTestSuite" />
+        </classes>
+    </test>
+    <test name="UserTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.UserTestSuite" />
+        </classes>
+    </test>      
+    <test name="CspAdminTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.CspAdminTestSuite" />
+        </classes>
+    </test>    
+    <test name="SoftwareManifestTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.SoftwareManifestTestSuite" />
+        </classes>
+    </test>     
+    <test name="ProvisioningTestSuite" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="com.itson.servicedesigncenter.ProvisioningTestSuite" />
+        </classes>
+    </test>   
+</suite>
