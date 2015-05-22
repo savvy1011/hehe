@@ -1,0 +1,7 @@
+#surefire_0
+#Fri May 22 15:42:47 ICT 2015
+maven.ext.class.path=/Applications/NetBeans/NetBeans 8.0.2.app/Contents/Resources/NetBeans/java/maven-nblib/netbeans-eventspy.jar
+netbeans.testng.action=true
+user.dir=/Users/ha/_WORK/_PROJECT/Evizi_AT_SAAS/Code/SDC_Github/SDC/target
+localRepository=/Users/ha/.m2/repository
+basedir=/Users/ha/_WORK/_PROJECT/Evizi_AT_SAAS/Code/SDC_Github/SDC
